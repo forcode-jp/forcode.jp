@@ -1,4 +1,4 @@
-baseurl = "https://forcode.jp/"
+baseurl = "/"
 languageCode = "ja"
 DefaultContentLanguage = "ja"
 theme = "terminal"
