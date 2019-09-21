@@ -1,3 +1,46 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://forcode.jp/"
+languageCode = "ja"
+DefaultContentLanguage = "ja"
+theme = "terminal"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "blog"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "blue"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 5
+  # show selector to switch language
+  showLanguageSelector = false
+  # set theme to full screen width
+  fullWidthTheme = false
+  # center theme with default width
+  centerTheme = true
+  # set a custom favicon (default is a `themeColor` square)
+  favicon = "img/favicon.ico"
+
+[languages]
+  [languages.ja]
+    languageName = "Japanese"
+    title = "FORCODE"
+    subtitle = "Go for code, Run for code."
+    keywords = "プログラミング, 学習, 評価"
+    copyright = "© Forcode Co., Ltd."
+    menuMore = "Show more"
+    readMore = "続きを読む"
+    readOtherPosts = "Read other posts"
+
+    [languages.ja.params.logo]
+      logoText = "#!/usr/bin/env forcode"
+      logoHomeLink = "/"
+
+    # [languages.ja.menu]
+    #   [[languages.ja.menu.main]]
+    #     identifier = "about"
+    #     name = "About"
+    #     url = "/about"
+    #   [[languages.ja.menu.main]]
+    #     identifier = "blog"
+    #     name = "Blog"
+    #     url = "/blog"
