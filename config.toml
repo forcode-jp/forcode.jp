@@ -35,11 +35,11 @@ paginate = 5
       logoText = "#!/usr/bin/env forcode"
       logoHomeLink = "/"
 
-    # [languages.ja.menu]
-    #   [[languages.ja.menu.main]]
-    #     identifier = "about"
-    #     name = "About"
-    #     url = "/about"
+    [languages.ja.menu]
+      [[languages.ja.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
     #   [[languages.ja.menu.main]]
     #     identifier = "blog"
     #     name = "Blog"
