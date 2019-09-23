@@ -26,4 +26,4 @@ Tomoya Otake
 - Twitter: [@tmoyaton](https://twitter.com/tomoyaton)
 - Amazon: [著者ページ](https://www.amazon.co.jp/-/e/B007HB11FI)
 
-![](./tomoya.jpg)
+![tomoyaの写真](./tomoya.jpg)
