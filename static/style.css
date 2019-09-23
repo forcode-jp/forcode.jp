@@ -5,3 +5,18 @@ body {
 .logo__text {
   font-family: Fira Code, Monaco, Consolas, Ubuntu Mono, monospace;
 }
+
+.post-content img {
+  border-radius: 8px;
+  margin: 40px -50px;
+  width: 860px;
+  max-width: 860px;
+  box-shadow: 0 12px 40px rgba(0,0,0,.15);
+}
+
+@media (max-width: 899px) {
+  .post-content img {
+    margin: 20px 0;
+    width: 100%;
+  }
+}
