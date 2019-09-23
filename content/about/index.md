@@ -1,5 +1,6 @@
 ---
 title: "About"
+cover: about/header-forcode-logo.png
 ---
 
 ## About Us
