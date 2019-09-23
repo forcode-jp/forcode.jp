@@ -4,6 +4,8 @@ slug: hello-forcode
 author: tomoya
 date: 2019-09-21
 cover: blog/hello-forcode/header-forcode-logo.png
+images:
+  - blog/hello-forcode/header-forcode-logo.png
 description: フォーコード株式会社は、エンジニア向け教育サービスを目的として2018年11月に設立しました。その後、効果的な学習に必要な評価基盤の開発をメイン事業として正式スタートしました。
 ---
 

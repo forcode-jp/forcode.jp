@@ -6,6 +6,8 @@ date: 2019-09-23
 tags:
   - event
 cover: blog/forcode-became-a-gold-sponsor-of-vimconf-2019/vimconf-2019-gold-sponsors-20190923.png
+images:
+  - blog/forcode-became-a-gold-sponsor-of-vimconf-2019/vimconf-2019-gold-sponsors-20190923.png
 description: フォーコードは2019年11月3日に開催される VimConf 2019のGoldスポンサーになりました。
 ---
 
