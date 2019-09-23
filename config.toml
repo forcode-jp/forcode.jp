@@ -1,33 +1,24 @@
 baseurl = "https://forcode.jp/"
 languageCode = "ja"
 DefaultContentLanguage = "ja"
-theme = "terminal"
+theme = "hello-friend"
 paginate = 5
 
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "blog"
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "blue"
+  # "light" or "dark"
+  defaultTheme = "dark"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 5
-  # show selector to switch language
-  showLanguageSelector = false
-  # set theme to full screen width
-  fullWidthTheme = false
-  # center theme with default width
-  centerTheme = true
-  # set a custom favicon (default is a `themeColor` square)
-  favicon = "img/favicon.ico"
 
 [languages]
   [languages.ja]
     languageName = "Japanese"
     title = "FORCODE"
     subtitle = "Go for code, Run for code."
-    keywords = "プログラミング, 学習, 評価"
+    keywords = "プログラミング, 学習, 評価, 評価制度"
     copyright = "© Forcode Co., Ltd."
-    menuMore = "Show more"
     readMore = "続きを読む"
     readOtherPosts = "Read other posts"
 
@@ -38,9 +29,5 @@ paginate = 5
     [languages.ja.menu]
       [[languages.ja.menu.main]]
         identifier = "about"
-        name = "About"
-        url = "/about"
-    #   [[languages.ja.menu.main]]
-    #     identifier = "blog"
-    #     name = "Blog"
-    #     url = "/blog"
+        name = "Hello, Forcode!"
+        url = "/blog/hello-forcode/"
