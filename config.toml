@@ -18,7 +18,6 @@ paginate = 5
   [languages.ja]
     languageName = "Japanese"
     title = "FORCODE"
-    subtitle = "Go for code, Run for code."
     keywords = "プログラミング, 学習, 評価, 評価制度"
     copyright = "© Forcode Co., Ltd."
     readMore = "続きを読む"
