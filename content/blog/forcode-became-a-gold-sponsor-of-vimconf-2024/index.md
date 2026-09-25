@@ -15,4 +15,4 @@ description: フォーコードは2024年11月23日に開催された VimConf 20
 
 - [イベント公式サイト](https://vimconf.org/2024/)
 
-[VimConf 2013 Tinyに引き続き](https://forcode.jp/blog/forcode-became-a-gold-sponsor-of-vimconf-2023/)、3回目のスポンサーをしました。
+[VimConf 2023 Tinyに引き続き](https://forcode.jp/blog/forcode-became-a-gold-sponsor-of-vimconf-2023/)、3回目のスポンサーをしました。
